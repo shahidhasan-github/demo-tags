@@ -1,5 +1,6 @@
 # www.robotstxt.org/
 # robots are the future
+# Robots will be helping hands for humans
 # Allow crawling of all content
 User-agent: *
 Disallow:
